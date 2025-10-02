@@ -69,5 +69,3 @@ The project requires the following Python libraries:
 ---
 
 
-   git clone https://github.com/yourusername/insurance-cost-prediction.git
-   cd insurance-cost-prediction
