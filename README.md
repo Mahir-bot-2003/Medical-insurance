@@ -4,7 +4,6 @@
 ## 📌 Introduction  
 This project predicts **individual medical insurance costs** based on personal attributes such as age, BMI, smoking status, and region. By applying **Linear Regression**, the goal is to understand the factors influencing insurance premiums and build a predictive model that estimates charges accurately.  
 ---
-DEMO LINK - https://medical-insurance-predict.streamlit.app/
 
 ## 📂 Dataset  
 The project uses the **insurance.csv** dataset containing **1338 rows** and the following columns:  
